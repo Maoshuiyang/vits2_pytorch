@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="23">
+            <item index="0" class="java.lang.String" itemvalue="librosa" />
+            <item index="1" class="java.lang.String" itemvalue="redis-cli" />
+            <item index="2" class="java.lang.String" itemvalue="grpcio-tools" />
+            <item index="3" class="java.lang.String" itemvalue="cos-python-sdk-v5" />
+            <item index="4" class="java.lang.String" itemvalue="transformers" />
+            <item index="5" class="java.lang.String" itemvalue="torch" />
+            <item index="6" class="java.lang.String" itemvalue="pytokenizations" />
+            <item index="7" class="java.lang.String" itemvalue="OpenCC" />
+            <item index="8" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="9" class="java.lang.String" itemvalue="g2pm" />
+            <item index="10" class="java.lang.String" itemvalue="pydub" />
+            <item index="11" class="java.lang.String" itemvalue="numpy" />
+            <item index="12" class="java.lang.String" itemvalue="torch_struct" />
+            <item index="13" class="java.lang.String" itemvalue="paddlepaddle" />
+            <item index="14" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="15" class="java.lang.String" itemvalue="pypinyin_dict" />
+            <item index="16" class="java.lang.String" itemvalue="huggingface_hub" />
+            <item index="17" class="java.lang.String" itemvalue="jsonlines" />
+            <item index="18" class="java.lang.String" itemvalue="mysql-cli" />
+            <item index="19" class="java.lang.String" itemvalue="pytorch-lightning" />
+            <item index="20" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="21" class="java.lang.String" itemvalue="pydantic" />
+            <item index="22" class="java.lang.String" itemvalue="phonemizer" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
